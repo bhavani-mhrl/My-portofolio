@@ -72,5 +72,10 @@ Simple yet effective theme toggling using JavaScript and CSS classes.
 - Integrate backend or API for dynamic data
 - Refactor code for better modularity
 
+---
+
+🙌 **Thank You!**
+
+👩‍💻 Developed by: BHAVANI MACHARLA (Bhavani-mhrl,Myportofolio)
 
 
