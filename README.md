@@ -47,7 +47,7 @@ Simple yet effective theme toggling using JavaScript and CSS classes.
   **Solution**: Used ARIA labels and scalable SVGs
 
 ### 🔗 Live Demo & Repository
-- [Live Demo](https://your-live-link.com)
+- [Live Demo]( https://bhavani-mhrl.github.io/My-portofolio/)
 - [GitHub Repo](https://github.com/your-username/project-name)
 
 ### 📚 What I Learned
