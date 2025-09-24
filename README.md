@@ -27,7 +27,7 @@ A visually engaging and responsive web application built to demonstrate practica
 
 - Homepage with theme toggle
 
-![webpage](https://github.com/bhavani-mhrl/My-portofolio/blob/3290886bbe7c7d908168afd74a4a352a5680f3fa/Screenshot%202025-09-24%20142824.png)
+![webpage](https://github.com/bhavani-mhrl/My-portofolio/blob/363d63f400521e7368a0230ca2f9a0f0a47ad405/Screenshot%202025-09-24%20143446.png)
   
 - Interactive section (e.g., form, animation)
 
