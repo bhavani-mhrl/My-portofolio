@@ -46,9 +46,9 @@ Simple yet effective theme toggling using JavaScript and CSS classes.
 - **Challenge**: Designing accessible icons  
   **Solution**: Used ARIA labels and scalable SVGs
 
-### 🔗 Live Demo & Repository
-- [Live Demo]( https://bhavani-mhrl.github.io/My-portofolio/)
-- [GitHub Repo](https://github.com/your-username/project-name)
+### 🔗 Repository
+
+- [GitHub Repo](https://github.com/bhavani-mhrl/My-portofolio.git)
 
 ### 📚 What I Learned
 - How to structure a frontend project for scalability
