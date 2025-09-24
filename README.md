@@ -23,8 +23,12 @@ A visually engaging and responsive web application built to demonstrate practica
 - Clean, modular code structure
 
 ### 📸 Screenshots
-![webpage]()
+![webpage](https://github.com/bhavani-mhrl/My-portofolio/blob/3290886bbe7c7d908168afd74a4a352a5680f3fa/Screenshot%202025-09-24%20142824.png)
+
 - Homepage with theme toggle
+
+![webpage](https://github.com/bhavani-mhrl/My-portofolio/blob/3290886bbe7c7d908168afd74a4a352a5680f3fa/Screenshot%202025-09-24%20142824.png)
+  
 - Interactive section (e.g., form, animation)
 
 ### 💡 Code Highlights
