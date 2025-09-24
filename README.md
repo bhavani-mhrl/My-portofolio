@@ -33,10 +33,16 @@ A visually engaging and responsive web application built to demonstrate practica
 
 ![webpage](https://github.com/bhavani-mhrl/My-portofolio/blob/95ed9fd658795e83227c96a3f3b0e8e634baff6c/Screenshot%202025-09-24%20143501.png)
 
-![webpage]()
-  
 - Interactive section (e.g., form, animation)
 
+  ---
+
+![webpage](https://github.com/bhavani-mhrl/My-portofolio/blob/f7e30bd7a636a07e3480c224c4d0d482b8a6c8dc/Screenshot%202025-09-24%20143518.png)
+
+- Implemented slide show
+
+---
+  
 ### 💡 Code Highlights
 ```javascript
 function toggleTheme() {
@@ -66,6 +72,5 @@ Simple yet effective theme toggling using JavaScript and CSS classes.
 - Integrate backend or API for dynamic data
 - Refactor code for better modularity
 
----
 
-Would you like help customizing this for a specific project like your Rock-Paper-Scissors game or a new UI component you’re working on? I can also help you write a matching LinkedIn post or resume bullet to go with it!
+
